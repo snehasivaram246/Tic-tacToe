@@ -1,9 +1,9 @@
  PROJECT: Tic Tac Toe with Minimax AI and UI Enhancements
 
-Description:
+DESCRIPTION:
 Developed an advanced version of the classic Tic Tac Toe game incorporating AI using the Minimax algorithm. The game allows Player vs Player and Player vs AI modes, with difficulty levels. Includes a clean, responsive user interface and game state tracking.
 
-Technologies & Tools Used:
+TECHNOLOGIES & TOOLS USED:
 
 HTML, CSS, JavaScript
 
@@ -14,7 +14,7 @@ Responsive Web Design
 DOM Manipulation and Game Logic
 
 
-Key Features:
+KEY FEATURES:
 
 Single Player vs AI (Unbeatable) and Two Player Modes
 
@@ -34,7 +34,7 @@ Sure! Here's a clean, professional summary of your Tic Tac Toe AI project, inclu
 
 🎮 Tic Tac Toe with AI (Minimax Algorithm)
 
-📁 Project Structure
+📁 PROJECT STRUCTURE 
 
 TicTacToe-AI/
 │
@@ -47,7 +47,7 @@ TicTacToe-AI/
 
 ---
 
-🔑 Key Learnings
+🔑 KEY LEARNINGS 
 
 1. Minimax Algorithm
 Learned how to implement AI that never loses using the Minimax decision-making algorithm for turn-based games.
@@ -66,44 +66,10 @@ Learned to create a simple, clean user interface that works across desktops and 
 
 
 5. Version Control
-Understood how to use Git and GitHub for uploading code, tracking changes, and publishing live demos.
+Understood how to use Git and GitHub for uploading code, tracking changes, and publishing live 
 
 
-
-Sure! Here's a clean, professional summary of your Tic Tac Toe AI project, including project structure, key learnings, and results — ideal for your resume, portfolio, or documentation.
-
-📁 Project Structure
-
-TicTacToe-AI/
-│
-├── index.html        # Main HTML structure
-├── style.css         # Styling and layout
-├── script.js         # Game logic and AI (Minimax)
-├── README.md         # Project description and usage
-└── assets/           # (Optional) Images, sounds, or icons
-
-🔑 Key Learnings
-
-1. Minimax Algorithm
-Learned how to implement AI that never loses using the Minimax decision-making algorithm for turn-based games.
-
-
-2. Game Logic Design
-Gained experience in designing a fully functional turn-based game with conditions like win, draw, and restart.
-
-
-3. DOM Manipulation
-Practiced handling dynamic updates to the UI using JavaScript and event listeners.
-
-
-4. Responsive UI Design
-Learned to create a simple, clean user interface that works across desktops and mobiles.
-
-
-5. Version Control
-Understood how to use Git and GitHub for uploading code, tracking changes, and publishing live demos.
-
-📊 Results / Features
+📊 RESULTS/ FEATURES 
 
 ✅ Two Game Modes:
 
