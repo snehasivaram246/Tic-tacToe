@@ -38,11 +38,11 @@ Sure! Here's a clean, professional summary of your Tic Tac Toe AI project, inclu
 
 TicTacToe-AI/
 │
-├── index.html        # Main HTML structure
-├── style.css         # Styling and layout
-├── script.js         # Game logic and AI (Minimax)
-├── README.md         # Project description and usage
-└── assets/           # (Optional) Images, sounds, or icons
+├── index.html        
+├── style.css         
+├── script.js         
+├── README.md      
+└── assets/           
 
 
 ---
