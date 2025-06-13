@@ -1,7 +1,13 @@
  PROJECT: Tic Tac Toe with Minimax AI and UI Enhancements
 
+ ---
+
 DESCRIPTION:
 Developed an advanced version of the classic Tic Tac Toe game incorporating AI using the Minimax algorithm. The game allows Player vs Player and Player vs AI modes, with difficulty levels. Includes a clean, responsive user interface and game state tracking.
+
+
+
+---
 
 TECHNOLOGIES & TOOLS USED:
 
@@ -13,6 +19,8 @@ Responsive Web Design
 
 DOM Manipulation and Game Logic
 
+
+---
 
 KEY FEATURES:
 
@@ -66,7 +74,10 @@ Learned to create a simple, clean user interface that works across desktops and 
 
 
 5. Version Control
-Understood how to use Git and GitHub for uploading code, tracking changes, and publishing live 
+Understood how to use Git and GitHub for uploading code, tracking changes, and publishing live
+
+
+---
 
 
 📊 RESULTS/ FEATURES 
@@ -91,6 +102,7 @@ Works well on mobile and desktop
 🔁 Game Flow Control:
 
 Game restart, win/draw detection, and UI 
+---
 
 
 
